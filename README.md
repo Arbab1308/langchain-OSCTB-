@@ -58,7 +58,7 @@ While the LangChain framework can be used standalone, it also integrates seamles
 
 ## Why use LangChain?
 
-LangChain helps developers build applications powered by LLMs through a standard interface for models, embeddings, vector stores, and more.
+
 
 - **Real-time data augmentation** — Easily connect LLMs to diverse data sources and external/internal systems, drawing from LangChain's vast library of integrations with model providers, tools, vector stores, retrievers, and more
 - **Model interoperability** — Swap models in and out as your engineering team experiments to find the best choice for your application's needs. As the industry frontier evolves, adapt quickly — LangChain's abstractions keep you moving without losing momentum
